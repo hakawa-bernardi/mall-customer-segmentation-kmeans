@@ -1,6 +1,11 @@
 # 🛍️ Segmentação de Clientes com K-Means
 
-Trabalho acadêmico da disciplina de **Inteligência Artificial** (CMP1110) — PUC Goiás, 2025/1.
+> **Disciplina:** Inteligência Artificial — PUC Goiás  
+> **Aluno:** Hakawã Luiz Bernardi
+
+---
+
+## 📋 Descrição
 
 Implementação do algoritmo **K-Means** para agrupar clientes de um shopping com base em características como renda anual, pontuação de gastos e idade.
 
@@ -27,7 +32,7 @@ kmeans-mall-customers/
 | `CustomerID` | Identificador único |
 | `Gender` | Gênero (Male/Female) |
 | `Age` | Idade |
-| `Annual Income (k$)` | Renda anual em milhares de dólares |
+| `Annual Income (k$)` | Renda anual em dólares |
 | `Spending Score (1-100)` | Pontuação de gastos atribuída pelo shopping |
 
 ---
@@ -67,19 +72,28 @@ kmeans-mall-customers/
 
 ---
 
-## 🚀 Como executar
+## 🚀 Como Executar
 
-### Pré-requisitos
+### 1. Clone o repositório
+
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/HakawaBernardi/mall-customer-segmentation-kmeans.git
+cd mall-customer-segmentation-kmeans
 ```
 
-### Execução
+### 2. Instale as dependências
+
+```bash
+pip install numpy pandas matplotlib seaborn scikit-learn
+```
+
+### 3. Execute o script
+
 ```bash
 python kmeans.py
 ```
 
-Os gráficos serão salvos como arquivos `.png` no diretório atual.
+> Os gráficos serão salvos como arquivos `.png` no diretório atual.
 
 ---
 
@@ -94,9 +108,6 @@ Os gráficos serão salvos como arquivos `.png` no diretório atual.
 
 ---
 
-## 👤 Informações
+## 📄 Licença
 
-- **Disciplina:** Inteligência Artificial — CMP1110
-- **Instituição:** PUC Goiás — Campus Escola Politécnica
-- **Professor(a):** Clarimar J. Coelho
-- **Semestre:** 2025/1
+Projeto acadêmico — PUC Goiás.
