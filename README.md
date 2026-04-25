@@ -1,6 +1,11 @@
 # 🛍️ Segmentação de Clientes com K-Means
 
-Trabalho acadêmico da disciplina de **Inteligência Artificial** (CMP1110) — PUC Goiás, 2025/1.
+> **Disciplina:** Inteligência Artificial — PUC Goiás  
+> **Aluno:** Hakawã Luiz Bernardi
+
+---
+
+## 📋 Descrição
 
 Implementação do algoritmo **K-Means** para agrupar clientes de um shopping com base em características como renda anual, pontuação de gastos e idade.
 
@@ -96,7 +101,5 @@ Os gráficos serão salvos como arquivos `.png` no diretório atual.
 
 ## 👤 Informações
 
-- **Disciplina:** Inteligência Artificial — CMP1110
-- **Instituição:** PUC Goiás — Campus Escola Politécnica
-- **Professor(a):** Clarimar J. Coelho
-- **Semestre:** 2025/1
+- **Disciplina:** Inteligência Artificial
+- **Instituição:** PUC GOIÁS
