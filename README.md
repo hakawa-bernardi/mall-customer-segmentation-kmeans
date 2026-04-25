@@ -11,18 +11,6 @@ Implementação do algoritmo **K-Means** para agrupar clientes de um shopping co
 
 ---
 
-## 📁 Estrutura do Projeto
-
-```
-kmeans-mall-customers/
-├── Mall_Customers.csv       # Dataset de segmentação de clientes
-├── kmeans.py                # Script principal com toda a análise
-├── requirements.txt         # Dependências do projeto
-└── README.md
-```
-
----
-
 ## 📊 Dataset
 
 **Mall Customer Segmentation Data** — 200 clientes com as seguintes variáveis:
@@ -93,7 +81,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 python kmeans.py
 ```
 
-> Os gráficos serão salvos como arquivos `.png` no diretório atual.
+Os gráficos serão salvos como arquivos `.png` no diretório atual.
 
 ---
 
