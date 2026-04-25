@@ -99,7 +99,6 @@ Os gráficos serão salvos como arquivos `.png` no diretório atual.
 
 ---
 
-## 👤 Informações
+## 📄 Licença
 
-- **Disciplina:** Inteligência Artificial
-- **Instituição:** PUC GOIÁS
+Projeto acadêmico — PUC Goiás.
